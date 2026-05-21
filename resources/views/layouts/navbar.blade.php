@@ -21,16 +21,10 @@
                                 <a class="nav-link" href="{{ url('/about') }}">About Us</a>
                             </li>
 
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="{{ url('/menu') }}" id="menuDropdown">
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route('menu') }}">
                                     Menu
                                 </a>
-
-                                <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="{{ url('/restaurant') }}">Restaurant</a></li>
-                                    <li><a class="dropdown-item" href="{{ url('/snacks') }}">Snacks</a></li>
-                                    <li><a class="dropdown-item" href="{{ url('/dairy') }}">Dairy</a></li>
-                                </ul>
                             </li>
 
                             <li class="nav-item">
