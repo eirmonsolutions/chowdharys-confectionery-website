@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\FrontendController;
 use App\Http\Controllers\Admin\MenuController;
 
 Route::get('/', function () {
@@ -34,3 +35,7 @@ Route::middleware('auth')->prefix('dashboard')->name('dashboard.')->group(functi
 
     Route::get('/get-subcategories/{categoryId}', [MenuController::class, 'getSubCategories'])->name('get.subcategories');
 });
+
+Route::get('/menu', [FrontendController::class, 'menu'])->name('menu');
+Route::get('/menu/{id}', [FrontendController::class, 'menuDetails'])
+    ->name('menu.details');

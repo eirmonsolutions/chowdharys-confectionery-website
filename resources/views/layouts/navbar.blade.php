@@ -21,8 +21,16 @@
                                 <a class="nav-link" href="{{ url('/about') }}">About Us</a>
                             </li>
 
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/services') }}">Services</a>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="{{ url('/menu') }}" id="menuDropdown">
+                                    Menu
+                                </a>
+
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="{{ url('/restaurant') }}">Restaurant</a></li>
+                                    <li><a class="dropdown-item" href="{{ url('/snacks') }}">Snacks</a></li>
+                                    <li><a class="dropdown-item" href="{{ url('/dairy') }}">Dairy</a></li>
+                                </ul>
                             </li>
 
                             <li class="nav-item">
@@ -49,8 +57,7 @@
                             </li>
 
                             <li>
-                                <a target="_blank"
-                                    href="https://www.instagram.com/chowdharys_nsr/">
+                                <a target="_blank" href="https://www.instagram.com/chowdharys_nsr/">
                                     <i class="fa-brands fa-instagram"></i>
                                 </a>
                             </li>
