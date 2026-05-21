@@ -40,11 +40,11 @@
                     <!-- About Us Images Start -->
                     <div class="about-us-images">
                         <!-- About Image Start -->
-                        <div class="about-image">
+                        <!-- <div class="about-image">
                             <figure class="image-anime reveal">
                                 <img src="images/about-us-image-1.jpg" alt="">
                             </figure>
-                        </div>
+                        </div> -->
                         <!-- About Image End -->
                         
                         <!-- About Image Start -->

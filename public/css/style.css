@@ -1393,6 +1393,10 @@ a.navbar-brand img {
 	width: 100%;
 }
 
+figure.image-anime.reveal {
+    height: 300px;
+}
+
 .about-image figure {
 	display: block;
 	border-radius: 20px;
