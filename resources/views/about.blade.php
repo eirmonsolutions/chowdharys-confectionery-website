@@ -2,7 +2,7 @@
 
 @section('content')
 
-<!-- About Us Section Start -->
+    <!-- About Us Section Start -->
     <div class="about-us bg-section">
         <div class="container">
             <div class="row align-items-center">
@@ -12,24 +12,28 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">About Us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Baking with heart, heritage, and a whole <span>lot of butter</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">At our bakery, every recipe tells a story - rooted in tradition perfected with passion, and baked with love. We blend time-honored techniques with high-quality ingredients.</p>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We're here to flip the script on traditional baking. Think bold flavor combos, Insta-worthy pastries, and a rotating menu.</p>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Baked in Passion. <span>Grounded in
+                                    Trust.</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Chowdharys is more than a food brand — it's a
+                                commitment to the people of Nawanshahr.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">Every product we offer carries the values of the
+                                young entrepreneur who started it all: quality, honesty, and a genuine love for good food.
+                            </p>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- About Us List Start -->
-                        <div class="about-us-list wow fadeInUp" data-wow-delay="0.6s">
-                            <ul>
-                                <li>Freshly Baked with Care.</li>
-                                <li>100% Quality You Can Taste!</li>
-                            </ul>
-                        </div>
+                        <!-- <div class="about-us-list wow fadeInUp" data-wow-delay="0.6s">
+                                                                                                    <ul>
+                                                                                                        <li>Freshly Baked with Care.</li>
+                                                                                                        <li>100% Quality You Can Taste!</li>
+                                                                                                    </ul>
+                                                                                                </div> -->
                         <!-- About Us list End -->
 
                         <!-- About Us Button Start -->
                         <div class="about-us-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="contact.html" class="btn-default">Contact Us</a>
+                            <a href="contact.html" class="btn-default">Get in Touch with Us</a>
                         </div>
                         <!-- About Us Button End -->
                     </div>
@@ -41,12 +45,12 @@
                     <div class="about-us-images">
                         <!-- About Image Start -->
                         <!-- <div class="about-image">
-                            <figure class="image-anime reveal">
-                                <img src="images/about-us-image-1.jpg" alt="">
-                            </figure>
-                        </div> -->
+                                                                                                            <figure class="image-anime reveal">
+                                                                                                                <img src="images/about-us-image-1.jpg" alt="">
+                                                                                                            </figure>
+                                                                                                        </div> -->
                         <!-- About Image End -->
-                        
+
                         <!-- About Image Start -->
                         <div class="about-image">
                             <figure class="image-anime reveal">
@@ -58,7 +62,7 @@
                         <!-- Year Experience Box Start -->
                         <div class="year-experience-circle">
                             <img src="images/year-experience-circle.svg" alt="">
-                            <h2><span class="counter">25</span>+</h2>
+                            <h2><span class="counter">3</span>+</h2>
                         </div>
                         <!-- Year Experience Box End -->
                     </div>
@@ -74,32 +78,32 @@
                                 <img src="images/icon-about-us-item-1.svg" alt="">
                             </div>
                             <div class="about-us-item-content">
-                                <h3>Wide Variety of Baked Goods</h3>
-                                <p>From breads to cakes</p>
+                                <h3>Wide Product Range</h3>
+                                <p>Dairy, snacks, and confectionery for every need</p>
                             </div>
                         </div>
                         <!-- About Us Item End -->
-                        
+
                         <!-- About Us Item Start -->
                         <div class="about-us-item wow fadeInUp" data-wow-delay="0.2s">
                             <div class="icon-box">
                                 <img src="images/icon-about-us-item-2.svg" alt="">
                             </div>
                             <div class="about-us-item-content">
-                                <h3>Locally Sourced Ingredients</h3>
-                                <p>Supporting local farmers</p>
+                                <h3>Locally Rooted</h3>
+                                <p>Proudly serving the people of Nawanshahr, Punjab</p>
                             </div>
                         </div>
                         <!-- About Us Item End -->
-                        
+
                         <!-- About Us Item Start -->
                         <div class="about-us-item wow fadeInUp" data-wow-delay="0.4s">
                             <div class="icon-box">
                                 <img src="images/icon-about-us-item-3.svg" alt="">
                             </div>
                             <div class="about-us-item-content">
-                                <h3>Custom Cakes & Orders</h3>
-                                <p>Personalized cakes and desserts</p>
+                                <h3>Customer First</h3>
+                                <p>Every decision we make puts our customers at the centre</p>
                             </div>
                         </div>
                         <!-- About Us Item End -->
@@ -119,7 +123,9 @@
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">Our Approach</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Wholesome values behind every freshly <span>baked item</span></h2>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Wholesome Values Behind Every
+                            <span>Product We Offer</span>
+                        </h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -131,7 +137,7 @@
                     <div class="approach-image">
                         <div class="approach-img">
                             <figure class="image-anime">
-                                <img src="images/approach-image.jpg" alt="">
+                                <img src="images/12.jpeg" alt="">
                             </figure>
                         </div>
 
@@ -197,7 +203,9 @@
                                 </div>
                             </div>
                             <div class="mission-vision-content">
-                                <p>Baking isn't just what we do — it's who we are. Every loaf, pastry, and cake is handcrafted with care, patience, and love.</p>
+                                <p>To make quality, honest food accessible to every family in Nawanshahr. We believe that
+                                    what you eat every day matters — and Chowdharys exists to make that choice easier,
+                                    better, and more trustworthy.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -213,7 +221,8 @@
                                 </div>
                             </div>
                             <div class="mission-vision-content">
-                                <p>Baking isn't just what we do — it's who we are. Every loaf, pastry, and cake is handcrafted with care, patience, and love.</p>
+                                <p>To become Punjab's most trusted community food brand — one that families recommend to
+                                    neighbours, gift to loved ones, and rely on for generations.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -229,7 +238,9 @@
                                 </div>
                             </div>
                             <div class="mission-vision-content">
-                                <p>Baking isn't just what we do — it's who we are. Every loaf, pastry, and cake is handcrafted with care, patience, and love.</p>
+                                <p>We lead with integrity. We never compromise on quality. We listen to our customers,
+                                    support our community, and hold ourselves to the highest standard in everything we do —
+                                    from sourcing to service.</p>
                             </div>
                         </div>
                         <!-- Mission Vision Item End -->
@@ -251,11 +262,12 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Why choose us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Baking freshness & flavor <span>you can trust</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">We blend time-honored techniques with the finest ingredients to create elegant pastries and breads that delight the senses.</p>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Freshness and Flavour <span>You Can Always
+                                    Count On</span></h2>
+
                         </div>
                         <!-- Section Title End -->
-    
+
                         <!-- Why Choose Item List Start -->
                         <div class="why-choose-item-list">
                             <!-- Why Choose Item Start -->
@@ -264,32 +276,35 @@
                                     <img src="images/icon-why-choose-1.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Passion and Care in Every Batch</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and expertise into every pastry, bread, and cake.</p>
+                                    <h3>Uncompromising Quality</h3>
+                                    <p>Every product on our shelves has passed our quality check. We source responsibly and
+                                        never cut corners — your family's health and satisfaction come first.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
-                            
+
                             <!-- Why Choose Item Start -->
                             <div class="why-choose-item wow fadeInUp" data-wow-delay="0.6s">
                                 <div class="icon-box">
                                     <img src="images/icon-why-choose-2.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Custom Orders for Every Occasion</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and expertise into every pastry, bread, and cake.</p>
+                                    <h3> A Brand Built on Trust</h3>
+                                    <p>Chowdharys was founded by a young entrepreneur from Nawanshahr who believed local
+                                        people deserved better. That belief drives everything we do.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
-                            
+
                             <!-- Why Choose Item Start -->
                             <div class="why-choose-item wow fadeInUp" data-wow-delay="0.8s">
                                 <div class="icon-box">
                                     <img src="images/icon-why-choose-3.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Traditional Recipes with a Modern Twist</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and expertise into every pastry, bread, and cake.</p>
+                                    <h3>Full Range, One Trusted Name</h3>
+                                    <p>From morning dairy to evening snacks to celebratory sweets — Chowdharys is the one
+                                        brand that serves your household at every moment of the day.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -298,7 +313,7 @@
                     </div>
                     <!-- Why Choose Content End -->
                 </div>
-    
+
                 <div class="col-lg-6">
                     <!-- Why Choose Images Start -->
                     <div class="why-choose-images">
@@ -307,9 +322,9 @@
                             <!-- Why Choose Image Start -->
                             <div class="why-choose-image wow fadeInUp">
                                 <figure class="image-anime">
-                                    <img src="images/why-choose-image-1.jpg" alt="">
+                                    <img src="images/12.jpeg" alt="">
                                 </figure>
-    
+
                                 <!-- Why Choose CTA Box Start -->
                                 <div class="why-choose-cta-box">
                                     <div class="icon-box">
@@ -322,7 +337,7 @@
                                 <!-- Why Choose CTA Box End -->
                             </div>
                             <!-- Why Choose Image End -->
-                            
+
                             <div class="google-rating-box wow fadeInUp" data-wow-delay="0.2s">
                                 <!-- Google Rating Content Start -->
                                 <div class="google-rating-content">
@@ -335,7 +350,7 @@
                                     <p>More Than 1K+ Trusted Clients</p>
                                 </div>
                                 <!-- Google Rating Content End -->
-    
+
                                 <!-- Review Images Start -->
                                 <div class="review-images">
                                     <div class="review-image">
@@ -366,7 +381,7 @@
                             </div>
                         </div>
                         <!-- Why Choose Image Box 1 End -->
-                        
+
                         <!-- Why Choose Image Box 2 Start -->
                         <div class="why-choose-image-box-2">
                             <!-- Contact Us Circle Start -->
@@ -374,11 +389,11 @@
                                 <a href="contact.html"><img src="images/contact-us-circle.svg" alt=""></a>
                             </div>
                             <!-- Contact Us Circle End -->
-                            
+
                             <!-- Why Choose Image Start -->
                             <div class="why-choose-image">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-image-2.jpg" alt="">
+                                    <img src="images/new.jpeg" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose Image End -->
@@ -401,7 +416,8 @@
                     <div class="what-we-video">
                         <!-- Video Play Button Start -->
                         <div class="video-play-button bg-effect">
-                            <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video" data-cursor-text="Play">
+                            <a href="images/12(1).mp4" class="popup-video"
+                                data-cursor-text="Play">
                                 <i class="fa-solid fa-play"></i>
                             </a>
                         </div>
@@ -416,7 +432,9 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">What we do</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Where baking become <span>sweet art</span></h2>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Where Everyday Food Becomes <span>Something
+                                    Special</span>
+                            </h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -426,14 +444,15 @@
                             <div class="what-we-item wow fadeInUp" data-wow-delay="0.2s">
                                 <!-- What We Header Start -->
                                 <div class="what-we-header">
-                                    <h4>Breads & Pastries</h4>
-                                    <h3>Artisanal Breads & Gourmet Pastries</h3>
+                                    <h4>Fresh & Nutritious Dairy Products</h4>
+
                                 </div>
                                 <!-- What We Header End -->
 
                                 <!-- What We Body Start -->
                                 <div class="what-we-body">
-                                    <p>Experience the rich aroma and flavor of handcrafted, made fresh daily with premium ingredients and timeless techniques.</p>
+                                    <p>Our dairy range includes fresh milk, paneer, curd, and more — all sourced to preserve
+                                        natural goodness and deliver real nutrition to your table every morning.</p>
                                 </div>
                                 <!-- What We Body End -->
                             </div>
@@ -443,14 +462,15 @@
                             <div class="what-we-item wow fadeInUp" data-wow-delay="0.4s">
                                 <!-- What We Header Start -->
                                 <div class="what-we-header">
-                                    <h4>Fresh Bakes</h4>
-                                    <h3>Freshly Baked Goods Daily</h3>
+                                    <h4>Bold, Flavourful Snacks</h4>
+
                                 </div>
                                 <!-- What We Header End -->
 
                                 <!-- What We Body Start -->
                                 <div class="what-we-body">
-                                    <p>Experience the rich aroma and flavor of handcrafted, made fresh daily with premium ingredients and timeless techniques.</p>
+                                    <p>From crispy namkeen to satisfying packaged snacks, our range is curated to offer
+                                        genuine flavour and value. Perfect for every occasion, big or small.</p>
                                 </div>
                                 <!-- What We Body End -->
                             </div>
@@ -460,7 +480,7 @@
 
                         <!-- What We Button Start -->
                         <div class="what-we-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="contact.html" class="btn-default">more contact us</a>
+                            <a href="contact.html" class="btn-default">Contact Us to Learn More</a>
                         </div>
                         <!-- What We Button End -->
                     </div>
@@ -471,263 +491,7 @@
     </div>
     <!-- What We Do Section End -->
 
-    <!-- Our Products Section Start -->
-    <div class="our-products bg-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Our products</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Artisan baked goods perfect for any occasion or <span>everyday treats</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Product Item Start -->
-                    <div class="product-item product-box-1 wow fadeInUp">
-                        <div class="product-item-image">
-                            <figure class="image-anime">
-                                <img src="images/product-1.jpg" alt="">
-                            </figure>
-                        </div>
-                        <div class="product-item-content">
-                            <p>01.</p>
-                            <h3>Gourmet Cupcakes</h3>
-                        </div>
-                    </div>
-                    <!-- Product Item End -->
-                </div>
-                
-                <div class="col-lg-3 col-md-6">
-                    <!-- Product Item Start -->
-                    <div class="product-item product-box-2 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="product-item-image">
-                            <figure class="image-anime">
-                                <img src="images/product-2.jpg" alt="">
-                            </figure>
-                        </div>
-                        <div class="product-item-content">
-                            <p>02.</p>
-                            <h3>Artisan Breads</h3>
-                        </div>
-                    </div>
-                    <!-- Product Item End -->
-                </div>
-                
-                <div class="col-lg-3 col-md-6">
-                    <!-- Product Item Start -->
-                    <div class="product-item product-box-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="product-item-image">
-                            <figure class="image-anime">
-                                <img src="images/product-3.jpg" alt="">
-                            </figure>
-                        </div>
-                        <div class="product-item-content">
-                            <p>03.</p>
-                            <h3>Celebration Cakes</h3>
-                        </div>
-                    </div>
-                    <!-- Product Item End -->
-                </div>
-                
-                <div class="col-lg-3 col-md-6">
-                    <!-- Product Item Start -->
-                    <div class="product-item product-box-4 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="product-item-image">
-                            <figure class="image-anime">
-                                <img src="images/product-4.jpg" alt="">
-                            </figure>
-                        </div>
-                        <div class="product-item-content">
-                            <p>04.</p>
-                            <h3>Delicious Pastries</h3>
-                        </div>
-                    </div>
-                    <!-- Product Item End -->
-                </div>
-
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.8s">
-                        <p>Feel the freedom of the open trail - <a href="contact.html">Start your riding journey with us now!</a></p>
-                    </div>
-                    <!-- Section Footer Text End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Products Section End -->
-
-    <!-- Our Team Section Start -->
-    <div class="our-team bg-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Our team</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Passionate skilled bakers behind <span>every handcrafted delight</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp">
-                        <!-- team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-1.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- team Image End -->
-
-                        <!-- Team Body Start -->
-                        <div class="team-body">
-                            <!-- Team Content Start -->
-                            <div class="team-content">
-                                <h3><a href="team-single.html">James Nolan</a></h3>
-                                <p>Dessert Manager</p>
-                            </div>
-                            <!-- Team Content End -->
-
-                            <!-- Team Social List Start -->
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social List End -->
-                        </div>
-                        <!-- Team Body End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-2.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- team Image End -->
-
-                        <!-- Team Body Start -->
-                        <div class="team-body">
-                            <!-- Team Content Start -->
-                            <div class="team-content">
-                                <h3><a href="team-single.html">Sarah Lewis</a></h3>
-                                <p>Doughnut Operator</p>
-                            </div>
-                            <!-- Team Content End -->
-
-                            <!-- Team Social List Start -->
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social List End -->
-                        </div>
-                        <!-- Team Body End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-3.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- team Image End -->
-
-                        <!-- Team Body Start -->
-                        <div class="team-body">
-                            <!-- Team Content Start -->
-                            <div class="team-content">
-                                <h3><a href="team-single.html">Daniel Brooks</a></h3>
-                                <p>Bakery Specialist</p>
-                            </div>
-                            <!-- Team Content End -->
-
-                            <!-- Team Social List Start -->
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social List End -->
-                        </div>
-                        <!-- Team Body End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <!-- Team Item Start -->
-                    <div class="team-item wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- team Image Start -->
-                        <div class="team-image">
-                            <a href="team-single.html" data-cursor-text="View">
-                                <figure class="image-anime">
-                                    <img src="images/team-4.jpg" alt="">
-                                </figure>
-                            </a>
-                        </div>
-                        <!-- team Image End -->
-
-                        <!-- Team Body Start -->
-                        <div class="team-body">
-                            <!-- Team Content Start -->
-                            <div class="team-content">
-                                <h3><a href="team-single.html">Emily Carter</a></h3>
-                                <p>Puffery Designer</p>
-                            </div>
-                            <!-- Team Content End -->
-
-                            <!-- Team Social List Start -->
-                            <div class="team-social-list">
-                                <ul>
-                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa-brands fa-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- Team Social List End -->
-                        </div>
-                        <!-- Team Body End -->
-                    </div>
-                    <!-- Team Item End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Team Section End -->
+    
 
     <!-- Our Testimonials Section Start -->
     <div class="our-testimonials bg-section dark-section">
@@ -739,7 +503,8 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Our testimonials</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Hear what our customers say <span>about us</span></h2>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">What Our Customers Say <span>About
+                                    Us</span></h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -753,20 +518,22 @@
                                         <div class="testimonial-item">
                                             <!-- Testimonial Content Start -->
                                             <div class="testimonial-item-content">
-                                                <p>“ I attended the Rio Carnal last February and it was a life-changing experience. The music, the energy, - everything was electric. I felt completely immersed in Brazilian culture. I attended the Rio Carnival last February. ”</p>
+                                                <p>"Chowdharys has become a part of our daily routine. The milk is always
+                                                    fresh, the snacks are fantastic, and the service is genuinely warm. This
+                                                    is what a local brand should feel like." </p>
                                             </div>
                                             <!-- Testimonial Content End -->
-                                            
+
                                             <!-- Testimonial Body Start -->
                                             <div class="testimonial-author">
                                                 <div class="author-image">
                                                     <figure class="image-anime">
                                                         <img src="images/author-1.jpg" alt="">
                                                     </figure>
-                                                </div>            
+                                                </div>
                                                 <div class="author-content">
-                                                    <h3>Darlene Robertson</h3>
-                                                    <p>Regular Customer</p>
+                                                    <h3>Harpreet Singh</h3>
+                                                    <p>Regular Customer, Nawanshahr</p>
                                                 </div>
                                             </div>
                                             <!-- Testimonial Body End -->
@@ -774,27 +541,29 @@
                                         <!-- Testimonial Item End -->
                                     </div>
                                     <!-- Testimonial Slide End -->
-                                    
+
                                     <!-- Testimonial Slide Start -->
                                     <div class="swiper-slide">
                                         <!-- Testimonial Item Start -->
                                         <div class="testimonial-item">
                                             <!-- Testimonial Content Start -->
                                             <div class="testimonial-item-content">
-                                                <p>“ I attended the Rio Carnal last February and it was a life-changing experience. The music, the energy, - everything was electric. I felt completely immersed in Brazilian culture. I attended the Rio Carnival last February. ”</p>
+                                                <p>"I ordered sweets for my daughter's birthday from Chowdharys and everyone
+                                                    kept asking where they were from. Quality that you can see and taste —
+                                                    highly recommend to everyone in Nawanshahr."</p>
                                             </div>
                                             <!-- Testimonial Content End -->
-                                            
+
                                             <!-- Testimonial Body Start -->
                                             <div class="testimonial-author">
                                                 <div class="author-image">
                                                     <figure class="image-anime">
                                                         <img src="images/author-2.jpg" alt="">
                                                     </figure>
-                                                </div>            
+                                                </div>
                                                 <div class="author-content">
-                                                    <h3>Olivia Clarke</h3>
-                                                    <p>General Manager</p>
+                                                    <h3>Simrandeep Kaur</h3>
+                                                    <p>Local Customer</p>
                                                 </div>
                                             </div>
                                             <!-- Testimonial Body End -->
@@ -882,7 +651,7 @@
                     <div class="testimonials-image wow fadeInUp" data-wow-delay="0.2s">
                         <div class="testimonial-img">
                             <figure class="image-anime">
-                                <img src="images/testimonial-image.jpg" alt="">
+                                <img src="images/15.jpeg" alt="">
                             </figure>
                         </div>
 
@@ -905,148 +674,6 @@
     </div>
     <!-- Our Testimonials Section End -->
 
-    <!-- Our Special Offers Section Start -->
-    <div class="our-special-offers bg-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Special offers</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Sweet savings and limited-time treats you <span>don't want to miss</span></h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-            
-            <div class="row align-items-center">
-                <div class="col-lg-4 col-md-6 order-1">
-                    <!-- Offers Item List Start -->
-                    <div class="offers-item-list offer-list-1">
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-1.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cupcake</h2>
-                                <p>Delightfully moist and perfectly portioned.</p>
-                                <h3>Price: $24.95</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                        
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-2.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Multigrain Loaf</h2>
-                                <p>A wholesome blend of grains and seeds baked to perfection</p>
-                                <h3>Price: $55.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                        
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-3.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cinnamon Roll</h2>
-                                <p>Soft, fluffy rolls swirled with cinnamon and sugar.</p>
-                                <h3>Price: $39.95</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                    </div>
-                    <!-- Offers Item List End -->
-                </div>
-
-                <div class="col-lg-4 order-lg-2 order-md-3 order-2">
-                    <!-- Best Offer Image Box Start -->
-                    <div class="best-offer-image-box">
-                        <!-- Best Offer Content Start -->
-                        <div class="best-offer-content wow fadeInUp">
-                            <h2>Best offers</h2>
-                            <p>A Little Thank You, from Us to You!</p>
-                            <a href="contact.html" class="readmore-btn">View all offers</a>
-                        </div>
-                        <!-- Best Offer Content End -->
-                        
-                        <!-- Best Offer Image Start -->
-                        <div class="best-offer-image wow fadeInUp" data-wow-delay="0.2s">
-                            <figure>
-                                <img src="images/best-offer-image.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Best Offer Image End -->
-                    </div>
-                    <!-- Best Offer Image Box End -->
-                </div>
-                
-                <div class="col-lg-4 col-md-6 order-lg-3 order-md-2 order-3">
-                    <!-- Offers Item List Start -->
-                    <div class="offers-item-list offer-list-2">
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-4.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cheesecake</h2>
-                                <p>Creamy smooth cheesecake on butter graham cracker crust</p>
-                                <h3>Price: $50.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                        
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-5.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Red Velvet Cupcake</h2>
-                                <p>Moist & vibrant red velvet cake topped with rich velvety cream</p>
-                                <h3>Price: $70.50</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                        
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-6.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cheese Scone</h2>
-                                <p>Buttery, crumbly scones baked with sharp cheddar cheese.</p>
-                                <h3>Price: $60.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                    </div>
-                    <!-- Offers Item List End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Special Offers Section End -->
 
     <!-- Our Faqs Section Start -->
     <div class="our-faqs bg-section">
@@ -1058,7 +685,9 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">frequently Asked Questions</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Have questions? we've got crumbly <span>kindly answers!</span></h2>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Have questions? we've got crumbly
+                                <span>kindly answers!</span>
+                            </h2>
                         </div>
                         <!-- Section Title End -->
 
@@ -1117,13 +746,17 @@
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp">
                             <h2 class="accordion-header" id="heading1">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-                                    Do you take custom cake orders?
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                    Do you take bulk or custom orders for events?
                                 </button>
                             </h2>
-                            <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1" data-bs-parent="#accordion">
+                            <div id="collapse1" class="accordion-collapse collapse" aria-labelledby="heading1"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Absolutely! We specialize in custom cakes for birthdays, weddings, and special events. Please order at least 48 hours in advance.</p>
+                                    <p>Yes! We welcome bulk orders for weddings, functions, birthday celebrations, and
+                                        corporate events. Please contact us at least 48 hours in advance and we'll be happy
+                                        to assist.</p>
                                 </div>
                             </div>
                         </div>
@@ -1132,13 +765,16 @@
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="accordion-header" id="heading2">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    Do you offer delivery or pickup?
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                    Do you offer home delivery?
                                 </button>
                             </h2>
-                            <div id="collapse2" class="accordion-collapse collapse show" aria-labelledby="heading2" data-bs-parent="#accordion">
+                            <div id="collapse2" class="accordion-collapse collapse show" aria-labelledby="heading2"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Absolutely! We specialize in custom cakes for birthdays, weddings, and special events. Please order at least 48 hours in advance.</p>
+                                    <p>Yes, we do offer delivery for select products within Nawanshahr. Please call us at
+                                        +91 91155 77466 or visit us in-store to confirm delivery options for your area.</p>
                                 </div>
                             </div>
                         </div>
@@ -1147,13 +783,16 @@
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
                             <h2 class="accordion-header" id="heading3">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                     Are your products made fresh daily?
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                                    Are your dairy products sourced fresh daily?
                                 </button>
                             </h2>
-                            <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3" data-bs-parent="#accordion">
+                            <div id="collapse3" class="accordion-collapse collapse" aria-labelledby="heading3"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Absolutely! We specialize in custom cakes for birthdays, weddings, and special events. Please order at least 48 hours in advance.</p>
+                                    <p>Absolutely. Our dairy products are sourced and restocked daily to ensure you always
+                                        receive the freshest quality. Freshness is non-negotiable at Chowdharys.</p>
                                 </div>
                             </div>
                         </div>
@@ -1162,13 +801,16 @@
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
                             <h2 class="accordion-header" id="heading4">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                     Are pets allowed inside the bakery?
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    Where are you located?
                                 </button>
                             </h2>
-                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordion">
+                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>Absolutely! We specialize in custom cakes for birthdays, weddings, and special events. Please order at least 48 hours in advance.</p>
+                                    <p>We are proudly based in Nawanshahr, Punjab. Visit us in-store or follow us on
+                                        Instagram @chowdharys_nsr for updates and offers.</p>
                                 </div>
                             </div>
                         </div>
@@ -1177,28 +819,34 @@
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
                             <h2 class="accordion-header" id="heading5">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                    Do you offer home delivery for cakes and pastries?
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                                    What areas do you deliver to?
                                 </button>
                             </h2>
-                            <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5" data-bs-parent="#accordion">
+                            <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>we do offer home delivery for all cakes, pastries, and selected menu items. You can choose your preferred delivery option while placing the order.</p>
+                                    <p>We currently deliver within Nawanshahr and nearby areas. Call us to check if your
+                                        location is covered — we're always looking to extend our reach.</p>
                                 </div>
                             </div>
                         </div>
                         <!-- FAQ Item End -->
-                    
+
                         <!-- FAQ Item Start -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="1s">
                             <h2 class="accordion-header" id="heading6">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
-                                    What areas or locations do you deliver to?
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
+                                    Do you have any ongoing offers or loyalty programmes?
                                 </button>
                             </h2>
-                            <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#accordion">
+                            <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6"
+                                data-bs-parent="#accordion">
                                 <div class="accordion-body">
-                                    <p>we do offer home delivery for all cakes, pastries, and selected menu items. You can choose your preferred delivery option while placing the order.</p>
+                                    <p>We regularly run seasonal offers and special deals. Follow us on Instagram
+                                        @chowdharys_nsr to stay updated on our latest promotions.</p>
                                 </div>
                             </div>
                         </div>
@@ -1211,4 +859,4 @@
     </div>
     <!-- Our Faqs Section End -->
 
-    @endsection
+@endsection

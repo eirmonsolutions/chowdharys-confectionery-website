@@ -4,7 +4,7 @@
 
 @section('content')
 
-<!-- Hero Section Start -->
+    <!-- Hero Section Start -->
     <div class="hero bg-section">
         <div class="container-fluid">
             <div class="row align-items-center">
@@ -15,12 +15,14 @@
                         <div class="hero-content dark-section">
                             <!-- Section Title Start -->
                             <div class="section-title">
-                                <h3 class="wow fadeInUp">Welcome to your neighborhood bakery</h3>
-                                <h1 class="text-anime-style-2" data-cursor="-opaque">Handcrafted pastries, breads and
-                                    cakes made <span>daily with love</span></h1>
-                                <p class="wow fadeInUp" data-wow-delay="0.2s">We're here to flip the scripts on
-                                    traditional baking. Think bold flavor combos, Insta-worthy pastries, and a rotating
-                                    menu.</p>
+                                <h3 class="wow fadeInUp">Welcome to Chowdharys — Nawanshahr's Favourite Restaurant & Snacks
+                                </h3>
+                                <h1 class="text-anime-style-2" data-cursor="-opaque">Pure Taste. Trusted Quality. <span>
+                                        Crafted
+                                        with Tradition</span>.</h1>
+                                <p class="wow fadeInUp" data-wow-delay="0.2s">From fresh dairy to wholesome snacks and
+                                    indulgent confectionery — everything at Chowdharys is made with honest ingredients and a
+                                    commitment to quality that Nawanshahr families have come to trust.</p>
                             </div>
                             <!-- Section Title End -->
 
@@ -28,17 +30,17 @@
                             <div class="hero-body wow fadeInUp" data-wow-delay="0.4s">
                                 <!-- Hero Button Start -->
                                 <div class="hero-btn">
-                                    <a href="content.html" class="btn-default btn-highlighted">Shop Location</a>
+                                    <a href="menu.html" class="btn-default btn-highlighted">Explore Our Menu</a>
                                 </div>
                                 <!-- Hero Button End -->
 
                                 <!-- Video Play Button Start -->
                                 <div class="video-play-button border-btn">
-                                    <p>Watch video</p>
-                                    <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
-                                        data-cursor-text="Play">
-                                        <i class="fa-solid fa-play"></i>
-                                    </a>
+                                    <p>Visit Us Today</p>
+                                    <!-- <a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
+                                                                                                                data-cursor-text="Play">
+                                                                                                                <i class="fa-solid fa-play"></i>
+                                                                                                            </a> -->
                                 </div>
                                 <!-- Video Play Button End -->
                             </div>
@@ -47,9 +49,9 @@
                             <!-- Hero Content List Start -->
                             <div class="hero-content-list wow fadeInUp" data-wow-delay="0.6s">
                                 <ul>
-                                    <li>Milk Dairy</li>
-                                    <li>Snacks</li>
-                                    <li>Confectionery</li>
+                                    <li>200+ Products Across Categories</li>
+                                    <li>1,000+ Happy Customers Served</li>
+                                    <li>100% Quality Guaranteed</li>
                                 </ul>
                             </div>
                             <!-- Hero Content List End -->
@@ -162,49 +164,49 @@
                             <!-- Google Rating Box Start -->
                             <div class="google-rating-box">
                                 <!-- Google Rating Header Start -->
-                                <div class="google-rating-header">
-                                    <div class="icon-box">
-                                        <img src="images/icon-google.svg" alt="">
-                                    </div>
-                                    <div class="google-rating-content">
-                                        <p>Google Rating</p>
-                                        <p><i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                            <i class="fa-solid fa-star"></i>
-                                        </p>
-                                    </div>
-                                </div>
+                                <!-- <div class="google-rating-header">
+                                                                                                                    <div class="icon-box">
+                                                                                                                        <img src="images/icon-google.svg" alt="">
+                                                                                                                    </div>
+                                                                                                                    <div class="google-rating-content">
+                                                                                                                        <p>Google Rating</p>
+                                                                                                                        <p><i class="fa-solid fa-star"></i>
+                                                                                                                            <i class="fa-solid fa-star"></i>
+                                                                                                                            <i class="fa-solid fa-star"></i>
+                                                                                                                            <i class="fa-solid fa-star"></i>
+                                                                                                                            <i class="fa-solid fa-star"></i>
+                                                                                                                        </p>
+                                                                                                                    </div>
+                                                                                                                </div> -->
                                 <!-- Google Rating Header End -->
 
                                 <!-- Review Images Start -->
-                                <div class="review-images">
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="images/author-1.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="images/author-2.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="images/author-3.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image">
-                                        <figure class="image-anime">
-                                            <img src="images/author-4.jpg" alt="">
-                                        </figure>
-                                    </div>
-                                    <div class="review-image add-more">
-                                        <h3><span class="counter">5</span>K</h3>
-                                    </div>
-                                </div>
-                                <!-- Review Images End -->
+                                <!-- <div class="review-images">
+                                                                                                                    <div class="review-image">
+                                                                                                                        <figure class="image-anime">
+                                                                                                                            <img src="images/author-1.jpg" alt="">
+                                                                                                                        </figure>
+                                                                                                                    </div>
+                                                                                                                    <div class="review-image">
+                                                                                                                        <figure class="image-anime">
+                                                                                                                            <img src="images/author-2.jpg" alt="">
+                                                                                                                        </figure>
+                                                                                                                    </div>
+                                                                                                                    <div class="review-image">
+                                                                                                                        <figure class="image-anime">
+                                                                                                                            <img src="images/author-3.jpg" alt="">
+                                                                                                                        </figure>
+                                                                                                                    </div>
+                                                                                                                    <div class="review-image">
+                                                                                                                        <figure class="image-anime">
+                                                                                                                            <img src="images/author-4.jpg" alt="">
+                                                                                                                        </figure>
+                                                                                                                    </div>
+                                                                                                                    <div class="review-image add-more">
+                                                                                                                        <h3><span class="counter">5</span>K</h3>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                                <!-- Review Images End -->
                             </div>
                             <!-- Google Rating Box End -->
                         </div>
@@ -254,28 +256,30 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">About Us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Baking with heart, heritage, and a
-                                whole <span>lot of butter</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">At our bakery, every recipe tells a story -
-                                rooted in tradition perfected with passion, and baked with love. We blend time-honored
-                                techniques with high-quality ingredients.</p>
-                            <p class="wow fadeInUp" data-wow-delay="0.4s">We're here to flip the script on traditional
-                                baking. Think bold flavor combos, Insta-worthy pastries, and a rotating menu.</p>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">Rooted in Passion. <span>Built on
+                                    Trust.</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">Chowdharys was born from one chowdhary
+                                entrepreneur's belief that everyday food should never compromise on quality. What started as
+                                a vision to bring better dairy, tastier snacks, and finer confectionery to Nawanshahr has
+                                grown into a brand that local families rely on every single day.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.4s">We don't cut corners. We don't compromise on
+                                freshness. And we never stop improving — because you deserve nothing less.</p>
                         </div>
                         <!-- Section Title End -->
 
                         <!-- About Us List Start -->
                         <div class="about-us-list wow fadeInUp" data-wow-delay="0.6s">
                             <ul>
-                                <li>Freshly Baked with Care.</li>
-                                <li>100% Quality You Can Taste!</li>
+                                <li>Freshly sourced dairy you can taste the difference in</li>
+                                <li>Snacks crafted for bold, satisfying flavour</li>
+                                <li>Confectionery made to make every moment sweeter</li>
                             </ul>
                         </div>
                         <!-- About Us list End -->
 
                         <!-- About Us Button Start -->
                         <div class="about-us-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="about.html" class="btn-default">More About Us</a>
+                            <a href="about.html" class="btn-default">Learn More About Us</a>
                         </div>
                         <!-- About Us Button End -->
                     </div>
@@ -350,23 +354,23 @@
                 <div class="col-lg-6">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Our services</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Delicious service that bring joy to
-                            <span>every table</span>
+                        <h3 class="wow fadeInUp">Our Products</h3>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque">Three Categories. One Promise —
+                            <span>Always the Best.</span>
                         </h2>
                     </div>
                     <!-- Section Title End -->
                 </div>
 
-                <div class="col-lg-6">
-                    <!-- Section Title Content Start -->
-                    <div class="section-title-content wow fadeInUp" data-wow-delay="0.2s">
-                        <p>We believe every meal should be a celebration - that's why our artisanal baked goods are made
-                            with the finest ingredients and a whole lot of love, delivering joy and flavor to every
-                            table we serve.</p>
-                    </div>
-                    <!-- Section Title Content End -->
-                </div>
+                <!-- <div class="col-lg-6"> -->
+                <!-- Section Title Content Start -->
+                <!-- <div class="section-title-content wow fadeInUp" data-wow-delay="0.2s">
+                                                                                        <p>We believe every meal should be a celebration - that's why our artisanal baked goods are made
+                                                                                            with the finest ingredients and a whole lot of love, delivering joy and flavor to every
+                                                                                            table we serve.</p>
+                                                                                    </div> -->
+                <!-- Section Title Content End -->
+                <!-- </div> -->
             </div>
 
             <div class="row service-item-list">
@@ -376,9 +380,9 @@
                         <!-- Service Content Start -->
                         <div class="service-item-content">
                             <h3>01.</h3>
-                            <h2><a href="service-single.html">Dairy</a></h2>
-                            <p>Experience the goodness of fresh and nutritious dairy products, carefully sourced to
-                                deliver rich taste and quality in every serving.</p>
+                            <h2><a href="service-single.html">Fresh Dairy</a></h2>
+                            <p>From full-cream milk to rich dairy products, our range is sourced with care to deliver the
+                                purity and nutrition your family deserves. Start every morning right.</p>
                         </div>
                         <!-- Service Content End -->
 
@@ -397,9 +401,9 @@
                         <!-- Service Content Start -->
                         <div class="service-item-content">
                             <h3>02.</h3>
-                            <h2><a href="service-single.html">Snacks</a></h2>
-                            <p>Enjoy a delicious range of crispy and flavorful snacks made to satisfy every craving,
-                                anytime and anywhere daily with freshness.
+                            <h2><a href="service-single.html">Restaurant Crunchy Snacks</a></h2>
+                            <p> Flavourful, crispy, and made to satisfy. Our snack range is perfect for any time of day —
+                                whether it's a quick bite at home or sharing with friends.
                             </p>
                         </div>
                         <!-- Service Content End -->
@@ -419,9 +423,9 @@
                         <!-- Service Content Start -->
                         <div class="service-item-content">
                             <h3>03.</h3>
-                            <h2><a href="service-single.html">Confectionery</a></h2>
-                            <p>Delight in every bite with our premium confectionery collection, crafted to satisfy your
-                                sweet cravings with rich flavors and irresistible freshness.</p>
+                            <h2><a href="service-single.html">Sweet Confectionery</a></h2>
+                            <p>Life is sweeter with the right treats. Our confectionery collection brings you rich flavours
+                                and delightful textures for every celebration and everyday indulgence.</p>
                         </div>
                         <!-- Service Content End -->
 
@@ -436,163 +440,20 @@
 
 
 
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.8s">
-                        <p><span>Free</span>Experience the taste everyone's talking about - <a href="contact.html">come
-                                in or order online!</a></p>
-                    </div>
-                    <!-- Section Footer Text End -->
-                </div>
+                <!-- <div class="col-lg-12">
+                                                                    Section Footer Text Start
+                                                                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.8s">
+                                                                        <p><span>Free</span>Experience the taste everyone's talking about - <a href="contact.html">come
+                                                                                in or order online!</a></p>
+                                                                    </div>
+                                                                    Section Footer Text End
+                                                                </div> -->
             </div>
         </div>
     </div>
     <!-- Our Services Section End -->
 
-    <!-- Our Special Offers Section Start -->
-    <div class="our-special-offers bg-section">
-        <div class="container">
-            <div class="row section-row">
-                <div class="col-lg-12">
-                    <!-- Section Title Start -->
-                    <div class="section-title section-title-center">
-                        <h3 class="wow fadeInUp">Special offers</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Sweet savings and limited-time treats you
-                            <span>don't want to miss</span>
-                        </h2>
-                    </div>
-                    <!-- Section Title End -->
-                </div>
-            </div>
-
-            <div class="row align-items-center">
-                <div class="col-lg-4 col-md-6 order-1">
-                    <!-- Offers Item List Start -->
-                    <div class="offers-item-list offer-list-1">
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-1.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cupcake</h2>
-                                <p>Delightfully moist and perfectly portioned.</p>
-                                <h3>Price: $24.95</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-2.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Multigrain Loaf</h2>
-                                <p>A wholesome blend of grains and seeds baked to perfection</p>
-                                <h3>Price: $55.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-3.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cinnamon Roll</h2>
-                                <p>Soft, fluffy rolls swirled with cinnamon and sugar.</p>
-                                <h3>Price: $39.95</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                    </div>
-                    <!-- Offers Item List End -->
-                </div>
-
-                <div class="col-lg-4 order-lg-2 order-md-3 order-2">
-                    <!-- Best Offer Image Box Start -->
-                    <div class="best-offer-image-box">
-                        <!-- Best Offer Content Start -->
-                        <div class="best-offer-content wow fadeInUp">
-                            <h2>Best offers</h2>
-                            <p>A Little Thank You, from Us to You!</p>
-                            <a href="contact.html" class="readmore-btn">View all offers</a>
-                        </div>
-                        <!-- Best Offer Content End -->
-
-                        <!-- Best Offer Image Start -->
-                        <div class="best-offer-image wow fadeInUp" data-wow-delay="0.2s">
-                            <figure>
-                                <img src="images/best-offer-image.png" alt="">
-                            </figure>
-                        </div>
-                        <!-- Best Offer Image End -->
-                    </div>
-                    <!-- Best Offer Image Box End -->
-                </div>
-
-                <div class="col-lg-4 col-md-6 order-lg-3 order-md-2 order-3">
-                    <!-- Offers Item List Start -->
-                    <div class="offers-item-list offer-list-2">
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-4.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cheesecake</h2>
-                                <p>Creamy smooth cheesecake on butter graham cracker crust</p>
-                                <h3>Price: $50.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-5.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Red Velvet Cupcake</h2>
-                                <p>Moist & vibrant red velvet cake topped with rich velvety cream</p>
-                                <h3>Price: $70.50</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-
-                        <!-- Offers Item Start -->
-                        <div class="offer-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="offer-image">
-                                <figure>
-                                    <img src="images/best-product-6.png" alt="">
-                                </figure>
-                            </div>
-                            <div class="offer-item-content">
-                                <h2>Cheese Scone</h2>
-                                <p>Buttery, crumbly scones baked with sharp cheddar cheese.</p>
-                                <h3>Price: $60.00</h3>
-                            </div>
-                        </div>
-                        <!-- Offers Item End -->
-                    </div>
-                    <!-- Offers Item List End -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Our Special Offers Section End -->
+    
 
     <!-- Why Choose Us Section Start -->
     <div class="why-choose-us bg-section">
@@ -604,10 +465,11 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Why choose us</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Baking freshness & flavor <span>you can
-                                    trust</span></h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">We blend time-honored techniques with the
-                                finest ingredients to create elegant pastries and breads that delight the senses.</p>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque"> Freshness and Flavour <span>You Can Always
+                                    Count On</span></h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">At Chowdharys, we hold ourselves to a higher
+                                standard. Every product that carries our name has been chosen and crafted to meet the
+                                expectations of the people of Nawanshahr — honest, dependable, and delicious.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -619,9 +481,9 @@
                                     <img src="images/icon-why-choose-1.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Passion and Care in Every Batch</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and
-                                        expertise into every pastry, bread, and cake.</p>
+                                    <h3>Uncompromising Quality</h3>
+                                    <p>We carefully source and select every ingredient and product. If it isn't good enough
+                                        for our own families, it won't reach yours.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -632,9 +494,9 @@
                                     <img src="images/icon-why-choose-2.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Custom Orders for Every Occasion</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and
-                                        expertise into every pastry, bread, and cake.</p>
+                                    <h3> A Brand You Can Trust</h3>
+                                    <p>Built by a young entrepreneur with a genuine passion for better food, Chowdharys has
+                                        earned its reputation through consistency and care — not shortcuts.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -645,9 +507,9 @@
                                     <img src="images/icon-why-choose-3.svg" alt="">
                                 </div>
                                 <div class="why-choose-item-content">
-                                    <h3>Traditional Recipes with a Modern Twist</h3>
-                                    <p>Baking isn't just a job for us - it's a craft. We pour love, attention, and
-                                        expertise into every pastry, bread, and cake.</p>
+                                    <h3>A Complete Food Experience</h3>
+                                    <p>Dairy, snacks, confectionery — all under one trusted name. Whatever you need,
+                                        Chowdharys has you covered.</p>
                                 </div>
                             </div>
                             <!-- Why Choose Item End -->
@@ -665,7 +527,7 @@
                             <!-- Why Choose Image Start -->
                             <div class="why-choose-image wow fadeInUp">
                                 <figure class="image-anime">
-                                    <img src="images/why-choose-image-1.jpg" alt="">
+                                    <img src="images/4.jpeg" alt="">
                                 </figure>
 
                                 <!-- Why Choose CTA Box Start -->
@@ -736,7 +598,7 @@
                             <!-- Why Choose Image Start -->
                             <div class="why-choose-image">
                                 <figure class="image-anime reveal">
-                                    <img src="images/why-choose-image-2.jpg" alt="">
+                                    <img src="images/new.jpeg" alt="">
                                 </figure>
                             </div>
                             <!-- Why Choose Image End -->
@@ -760,12 +622,12 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Our features</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Crafting fresh bakes daily with
-                                <span>love and tradition</span>
+                            <h2 class="text-anime-style-2" data-cursor="-opaque">What Makes
+                                <span>Chowdharys Different</span>
                             </h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.2s">From sunrise to oven, we create handcrafted
-                                breads, pastries, and cakes using time-honored techniques and premium ingredients.
-                                Whether it's a morning croissant, a celebration cake.</p>
+                            <p class="wow fadeInUp" data-wow-delay="0.2s">We believe great food isn't a luxury — it's a
+                                right. That's why we've built Chowdharys around values that matter to everyday families in
+                                Nawanshahr.</p>
                         </div>
                         <!-- Section Title End -->
 
@@ -778,7 +640,7 @@
                     <!-- Feature Content End -->
                 </div>
 
-                <div class="col-lg-6">  
+                <div class="col-lg-6">
                     <!-- Feature Items List Start -->
                     <div class="feature-items-list">
                         <!-- Feature Item Start -->
@@ -787,8 +649,9 @@
                                 <img src="images/icon-feature-1.svg" alt="">
                             </div>
                             <div class="feature-item-content">
-                                <h3>Handcrafted Baked Goods</h3>
-                                <p>We create a wide range of breads, pastries, cakes, and dessertsc from scratch.</p>
+                                <h3>Freshly Sourced Products</h3>
+                                <p>Our dairy and food products are sourced fresh and restocked regularly so you always get
+                                    the best quality.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -799,9 +662,9 @@
                                 <img src="images/icon-feature-2.svg" alt="">
                             </div>
                             <div class="feature-item-content">
-                                <h3>Custom Cake Design</h3>
-                                <p>Our skilled bakers and decorators craft personalized cakes tailored to your style and
-                                    occasion.</p>
+                                <h3>Wide Range Under One Roof </h3>
+                                <p>From milk and paneer to your favourite snacks and sweets — everything your household
+                                    needs, in one trusted place.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -812,9 +675,9 @@
                                 <img src="images/icon-feature-3.svg" alt="">
                             </div>
                             <div class="feature-item-content">
-                                <h3>Daily Fresh Production</h3>
-                                <p>Every morning, we bake fresh batches to ensure our customers always enjoy warm,
-                                    just-out-of-the-oven.</p>
+                                <h3>Consistent Daily Availability</h3>
+                                <p> We make sure our shelves are stocked and our customers are never left wanting.
+                                    Reliability is part of our promise.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -825,9 +688,9 @@
                                 <img src="images/icon-feature-4.svg" alt="">
                             </div>
                             <div class="feature-item-content">
-                                <h3>Catering & Special Orders</h3>
-                                <p>We offer catering services and special bulk orders for events, meetings, and
-                                    celebrations.</p>
+                                <h3>Custom & Bulk Orders</h3>
+                                <p>Planning an event, celebration, or function? We offer custom and bulk orders for
+                                    confectionery and snacks. Just get in touch.</p>
                             </div>
                         </div>
                         <!-- Feature Item End -->
@@ -851,7 +714,7 @@
                         <!-- Section Title Start -->
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Our testimonials</h3>
-                            <h2 class="text-anime-style-2" data-cursor="-opaque">Hear what our customers say <span>about
+                            <h2 class="text-anime-style-2" data-cursor="-opaque"> What Our Customers Say <span>About
                                     us</span></h2>
                         </div>
                         <!-- Section Title End -->
@@ -866,10 +729,9 @@
                                         <div class="testimonial-item">
                                             <!-- Testimonial Content Start -->
                                             <div class="testimonial-item-content">
-                                                <p>“ I attended the Rio Carnal last February and it was a life-changing
-                                                    experience. The music, the energy, - everything was electric. I felt
-                                                    completely immersed in Brazilian culture. I attended the Rio
-                                                    Carnival last February. ”</p>
+                                                <p> "Chowdharys has become a part of our daily routine. The milk is always
+                                                    fresh, the snacks are fantastic, and the service is genuinely warm. This
+                                                    is what a local brand should feel like."</p>
                                             </div>
                                             <!-- Testimonial Content End -->
 
@@ -881,8 +743,8 @@
                                                     </figure>
                                                 </div>
                                                 <div class="author-content">
-                                                    <h3>Darlene Robertson</h3>
-                                                    <p>Regular Customer</p>
+                                                    <h3>Harpreet Singh</h3>
+                                                    <p>Regular Customer, Nawanshahr</p>
                                                 </div>
                                             </div>
                                             <!-- Testimonial Body End -->
@@ -897,10 +759,9 @@
                                         <div class="testimonial-item">
                                             <!-- Testimonial Content Start -->
                                             <div class="testimonial-item-content">
-                                                <p>“ I attended the Rio Carnal last February and it was a life-changing
-                                                    experience. The music, the energy, - everything was electric. I felt
-                                                    completely immersed in Brazilian culture. I attended the Rio
-                                                    Carnival last February. ”</p>
+                                                <p>"I ordered sweets for my daughter's birthday from Chowdharys and everyone
+                                                    kept asking where they were from. Quality that you can see and taste —
+                                                    highly recommend to everyone in Nawanshahr."</p>
                                             </div>
                                             <!-- Testimonial Content End -->
 
@@ -912,8 +773,8 @@
                                                     </figure>
                                                 </div>
                                                 <div class="author-content">
-                                                    <h3>Olivia Clarke</h3>
-                                                    <p>General Manager</p>
+                                                    <h3>Simrandeep Kaur</h3>
+                                                    <p>Local Customer</p>
                                                 </div>
                                             </div>
                                             <!-- Testimonial Body End -->
@@ -943,7 +804,7 @@
 
                                 <!-- Testimonials Counter Body Start -->
                                 <div class="testimonial-counter-body">
-                                    <p>From breads to cakes From breads to cakes</p>
+                                    <p>Products Delivered</p>
                                 </div>
                                 <!-- Testimonials Counter Body End -->
                             </div>
@@ -964,7 +825,7 @@
 
                                 <!-- Testimonials Counter Body Start -->
                                 <div class="testimonial-counter-body">
-                                    <p>From breads to cakes From breads to cakes</p>
+                                    <p>Customer Satisfaction</p>
                                 </div>
                                 <!-- Testimonials Counter Body End -->
                             </div>
@@ -985,7 +846,7 @@
 
                                 <!-- Testimonials Counter Body Start -->
                                 <div class="testimonial-counter-body">
-                                    <p>From breads to cakes From breads to cakes</p>
+                                    <p>Years of Experience</p>
                                 </div>
                                 <!-- Testimonials Counter Body End -->
                             </div>
@@ -1001,7 +862,7 @@
                     <div class="testimonials-image wow fadeInUp" data-wow-delay="0.2s">
                         <div class="testimonial-img">
                             <figure class="image-anime">
-                                <img src="images/testimonial-image.jpg" alt="">
+                                <img src="images/15.jpeg" alt="">
                             </figure>
                         </div>
 
@@ -1012,7 +873,7 @@
                             </div>
                             <div class="why-choose-cta-content">
                                 <p>Need Answers? Let's Clear Things Up For You!</p>
-                                <h3><a href="tel:123465789">+(123) 465-789</a></h3>
+                                <h3><a href="tel:+919115554066">+91 91155 54066</a></h3>
                             </div>
                         </div>
                         <!-- Why Choose CTA Box End -->
@@ -1032,9 +893,11 @@
                     <!-- Section Title Start -->
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">Our gallery</h3>
-                        <h2 class="text-anime-style-2" data-cursor="-opaque">Feast your eyes on our fresh creations and
-                            <span>bakery delights</span>
+                        <h2 class="text-anime-style-2" data-cursor="-opaque"> A Look Inside
+                            <span>Chowdharys</span>
                         </h2>
+                        <p>Fresh products. Proud shelves. Happy customers. Take a peek at what makes Chowdharys the most
+                            trusted food brand in Nawanshahr.</p>
                     </div>
                     <!-- Section Title End -->
                 </div>
@@ -1050,9 +913,9 @@
                                 <div class="swiper-slide">
                                     <!-- Image Gallery start -->
                                     <div class="photo-gallery">
-                                        <a href="images/gallery-1.jpg" data-cursor-text="View">
+                                        <a href="images/1.jpeg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-1.jpg" alt="">
+                                                <img src="images/1.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>
@@ -1064,9 +927,9 @@
                                 <div class="swiper-slide">
                                     <!-- Image Gallery start -->
                                     <div class="photo-gallery">
-                                        <a href="images/gallery-2.jpg" data-cursor-text="View">
+                                        <a href="images/2.jpeg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-2.jpg" alt="">
+                                                <img src="images/2.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>
@@ -1078,9 +941,9 @@
                                 <div class="swiper-slide">
                                     <!-- Image Gallery start -->
                                     <div class="photo-gallery">
-                                        <a href="images/gallery-3.jpg" data-cursor-text="View">
+                                        <a href="images/3.jpeg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-3.jpg" alt="">
+                                                <img src="images/3.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>
@@ -1092,9 +955,9 @@
                                 <div class="swiper-slide">
                                     <!-- Image Gallery start -->
                                     <div class="photo-gallery">
-                                        <a href="images/gallery-4.jpg" data-cursor-text="View">
+                                        <a href="images/4.jpeg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-4.jpg" alt="">
+                                                <img src="images/4.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>
@@ -1106,9 +969,9 @@
                                 <div class="swiper-slide">
                                     <!-- Image Gallery start -->
                                     <div class="photo-gallery">
-                                        <a href="images/gallery-5.jpg" data-cursor-text="View">
+                                        <a href="images/5.jpeg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-5.jpg" alt="">
+                                                <img src="images/5.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>
@@ -1122,7 +985,7 @@
                                     <div class="photo-gallery">
                                         <a href="images/gallery-6.jpg" data-cursor-text="View">
                                             <figure>
-                                                <img src="images/gallery-6.jpg" alt="">
+                                                <img src="images/6.jpeg" alt="">
                                             </figure>
                                         </a>
                                     </div>

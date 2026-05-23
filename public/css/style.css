@@ -556,7 +556,7 @@ a.navbar-brand img {
 
 .main-menu ul li a {
 	font-size: 16px;
-	font-weight: 500;
+	font-weight: 700;
 	line-height: 1.1em;
 	padding: 15px 10px !important;
 	color: var(--primary-color);
@@ -1229,7 +1229,7 @@ a.navbar-brand img {
 	color: var(--white-color);
 }
 
-.hero-image-rating-box .google-rating-box {
+/* .hero-image-rating-box .google-rating-box {
 	position: absolute;
 	right: 40px;
 	bottom: 40px;
@@ -1240,7 +1240,7 @@ a.navbar-brand img {
 	-webkit-backdrop-filter: blur(20px);
 	border-radius: 10px;
 	padding: 20px;
-}
+} */
 
 .google-rating-box {
 	border-radius: 10px;
@@ -1394,7 +1394,7 @@ a.navbar-brand img {
 }
 
 figure.image-anime.reveal {
-    height: 300px;
+    height: 350px;
 }
 
 .about-image figure {
@@ -2551,11 +2551,15 @@ figure.image-anime.reveal {
 
 .footer-logo {
 	margin-bottom: 30px;
+	background-color: #fff;
+	width: 90%;
+	padding: 10px;
+	border-radius: 10px;
 }
 
 .footer-logo img {
-	width: 100%;
-	max-width: 162px;
+	/* width: 100%; */
+	max-width: 500px;
 }
 
 .footer-menu ul {
@@ -2948,7 +2952,7 @@ figure.image-anime.reveal {
 
 .what-we-do {
 	position: relative;
-	background: url('../images/what-we-do-bg.jpg') no-repeat;
+	background: url('../images/1.jpeg') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 60px;

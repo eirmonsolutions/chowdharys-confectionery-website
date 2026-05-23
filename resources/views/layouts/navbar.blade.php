@@ -32,10 +32,6 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/blog') }}">Blog</a>
-                            </li>
-
-                            <li class="nav-item">
                                 <a class="nav-link" href="{{ url('/contact') }}">Contact Us</a>
                             </li>
 
@@ -60,7 +56,7 @@
 
                     <div class="header-btn">
                         <a href="{{ url('/login') }}" class="btn-default">
-                            Login
+                            Book Now
                         </a>
                     </div>
 
