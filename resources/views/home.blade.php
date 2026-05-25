@@ -350,7 +350,7 @@
 
                         <!-- Service Readmore Start -->
                         <div class="service-readmore-btn">
-                            <a href="service-single.html" class="readmore-btn">read more</a>
+                            <a href="https://order.chowdharys.com/" class="readmore-btn">Order Now</a>
                         </div>
                         <!-- Service Readmore End -->
                     </div>
@@ -372,7 +372,7 @@
 
                         <!-- Service Readmore Start -->
                         <div class="service-readmore-btn">
-                            <a href="service-single.html" class="readmore-btn">read more</a>
+                            <a href="https://order.chowdharys.com/" class="readmore-btn">Order Now</a>
                         </div>
                         <!-- Service Readmore End -->
                     </div>
@@ -393,7 +393,7 @@
 
                         <!-- Service Readmore Start -->
                         <div class="service-readmore-btn">
-                            <a href="service-single.html" class="readmore-btn">read more</a>
+                            <a href="https://order.chowdharys.com/" class="readmore-btn">Order Now</a>
                         </div>
                         <!-- Service Readmore End -->
                     </div>
