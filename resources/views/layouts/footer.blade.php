@@ -18,7 +18,7 @@
                         <ul>
                             <li><a href="{{ url('/') }}">Home</a></li>
                             <li><a href="{{ url('/about') }}">About us</a></li>
-                            <li><a href="{{ url('/menu') }}">Menu</a></li>
+                            <li><a href="https://order.chowdharys.com/">Menu</a></li>
                             <li><a href="{{ url('/gallery') }}">Gallery</a></li>
                             <li><a href="{{ url('/contact') }}">Contact</a></li>
                         </ul>
@@ -79,7 +79,7 @@
                                 </a>
                             </li>
 
-                            <li>
+                            <!-- <li>
                                 <a href="#">
                                     <i class="fa-brands fa-facebook-f"></i>
                                 </a>
@@ -95,7 +95,7 @@
                                 <a href="#">
                                     <i class="fa-brands fa-linkedin-in"></i>
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
 
                     </div>
@@ -110,14 +110,7 @@
                 <div class="footer-copyright">
 
                     <div class="footer-copyright-text">
-                        <p>Copyright © 2026 Chowdharys NSR. All Rights Reserved.</p>
-                    </div>
-
-                    <div class="footer-privacy-policy">
-                        <ul>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Legal Information</a></li>
-                        </ul>
+                        <p>Copyright © 2026 Design & Development by|| <a href="https://eirmonsolution.com/">Eirmon Solution</a></p>
                     </div>
 
                 </div>

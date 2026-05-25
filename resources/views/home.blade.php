@@ -1,6 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('meta_title', 'Chowdhary’s |  Fresh Dairy, Snacks & Confectionery in Nawanshahr, Punjab')
+
+@section('meta_description',
+'Chowdhary is Nawanshahr\'s most trusted food destination offering fresh dairy products, delicious snacks, namkeen, and confectionery. Serving Punjab with quality and authenticity for 3+ years. Visit us today!')
 
 @section('content')
 
@@ -30,7 +33,7 @@
                             <div class="hero-body wow fadeInUp" data-wow-delay="0.4s">
                                 <!-- Hero Button Start -->
                                 <div class="hero-btn">
-                                    <a href="menu.html" class="btn-default btn-highlighted">Explore Our Menu</a>
+                                    <a href="https://order.chowdharys.com/" class="btn-default btn-highlighted">Explore Our Menu</a>
                                 </div>
                                 <!-- Hero Button End -->
 
@@ -80,7 +83,7 @@
                                     <!-- Hero Counter Content End -->
 
                                     <!-- Review Images Start -->
-                                    <div class="review-images">
+                                    <!-- <div class="review-images">
                                         <div class="review-image">
                                             <figure class="image-anime">
                                                 <img src="images/author-1.jpg" alt="">
@@ -94,7 +97,7 @@
                                         <div class="review-image add-more">
                                             <i class="fa-solid fa-plus"></i>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <!-- Review Images End -->
                                 </div>
                                 <!-- Hero Counter Box End -->
@@ -121,14 +124,14 @@
                             <div class="hero-video-tag-btn">
                                 <!-- Hero Video tag Start -->
                                 <div class="hero-video-tag">
-                                    <h3><a href="https://www.youtube.com/watch?v=Y-x0efG1seA" class="popup-video"
-                                            data-cursor-text="Play">View Videos</a></h3>
+                                    <h3><a href="https://order.chowdharys.com/" class="popup-video"
+                                            data-cursor-text="Play">Order Now</a></h3>
                                 </div>
                                 <!-- Hero Video tag End -->
 
                                 <!-- Hero Video Button Start -->
                                 <div class="hero-video-btn">
-                                    <a href="video-gallery.html">
+                                    <a href="https://order.chowdharys.com/">
                                         <img src="images/arrow-accent.svg" alt="">
                                     </a>
                                 </div>
@@ -232,7 +235,7 @@
 
                             <!-- Working Hours Button Start -->
                             <div class="working-hours-btn">
-                                <a href="contact.html" class="btn-default">Get Started Now!</a>
+                                <a href="{{route('contact')}}" class="btn-default">Get Started Now!</a>
                             </div>
                             <!-- Working Hours Button End -->
                         </div>
@@ -278,7 +281,7 @@
 
                         <!-- About Us Button Start -->
                         <div class="about-us-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="about.html" class="btn-default">Learn More About Us</a>
+                            <a href="{{ url('/about') }}" class="btn-default">Learn More About Us</a>
                         </div>
                         <!-- About Us Button End -->
                     </div>
@@ -300,47 +303,7 @@
                     <!-- About Us Images End -->
                 </div>
 
-                <div class="col-lg-12">
-                    <!-- About Us Item List Start -->
-                    <div class="about-us-item-list">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-1.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Wide Variety of Baked Goods</h3>
-                                <p>From breads to cakes</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-2.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Locally Sourced Ingredients</h3>
-                                <p>Supporting local farmers</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-3.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Custom Cakes & Orders</h3>
-                                <p>Personalized cakes and desserts</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                    </div>
-                    <!-- About Us Item List End -->
-                </div>
+                
             </div>
         </div>
     </div>
@@ -353,7 +316,7 @@
                 <div class="col-lg-6">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h3 class="wow fadeInUp">Our Products</h3>
+                        <h3 class="wow fadeInUp">Our Services</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque">Three Categories. One Promise —
                             <span>Always the Best.</span>
                         </h2>
@@ -589,9 +552,9 @@
                         <!-- Why Choose Image Box 2 Start -->
                         <div class="why-choose-image-box-2">
                             <!-- Contact Us Circle Start -->
-                            <div class="contact-us-circle">
+                            <!-- <div class="contact-us-circle">
                                 <a href="contact.html"><img src="images/contact-us-circle.svg" alt=""></a>
-                            </div>
+                            </div> -->
                             <!-- Contact Us Circle End -->
 
                             <!-- Why Choose Image Start -->
@@ -632,7 +595,7 @@
 
                         <!-- Feature Button Start -->
                         <div class="feature-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="contact.html" class="btn-default btn-highlighted">Learn more</a>
+                            <a href="{{ route('contact') }}" class="btn-default btn-highlighted">Learn more</a>
                         </div>
                         <!-- Feature Button End -->
                     </div>

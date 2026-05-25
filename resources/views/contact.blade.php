@@ -1,5 +1,10 @@
 @extends('layouts.app')
 
+@section('meta_title', 'Contact Us | Contact Chowdhary’s Nawanshahr | Snacks, Bakery & Ice Cream Shop')
+
+@section('meta_description',
+' Get in touch with Chowdhary’s in Nawanshahr for fresh snacks, bakery items, dairy products, confectionery, and ice creams. Visit us or contact our friendly team today.')
+
 @section('content')
 
     <!-- Contact Us Section -->

@@ -22,7 +22,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('menu') }}">
+                                <a class="nav-link" href="https://order.chowdharys.com/">
                                     Menu
                                 </a>
                             </li>
@@ -40,11 +40,11 @@
 
                     <div class="header-social-links">
                         <ul>
-                            <li>
+                            <!-- <li>
                                 <a target="_blank" href="#">
                                     <i class="fa-brands fa-facebook-f"></i>
                                 </a>
-                            </li>
+                            </li> -->
 
                             <li>
                                 <a target="_blank" href="https://www.instagram.com/chowdharys_nsr/">
@@ -55,7 +55,7 @@
                     </div>
 
                     <div class="header-btn">
-                        <a href="{{ url('/login') }}" class="btn-default">
+                        <a href="https://order.chowdharys.com/" class="btn-default">
                             Book Now
                         </a>
                     </div>

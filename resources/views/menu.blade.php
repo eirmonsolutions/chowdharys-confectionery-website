@@ -1,5 +1,10 @@
 @extends('layouts.app')
 
+@section('meta_title', 'Our Menu |  Chowdhary’s Menu | Snacks, Ice Cream & Confectionery in Nawanshahr')
+
+@section('meta_description',
+' Explore Chowdhary’s menu in Nawanshahr featuring delicious snacks, creamy ice creams, fresh dairy products, bakery treats, and confectionery loved by local families.')
+
 @section('content')
 
     <style>

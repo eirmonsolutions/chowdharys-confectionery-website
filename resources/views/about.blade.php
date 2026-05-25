@@ -1,5 +1,10 @@
 @extends('layouts.app')
 
+@section('meta_title', 'About Us | Chowdhary’s | Fresh Dairy, Snacks & Sweets in Nawanshahr, Punjab')
+
+@section('meta_description',
+'Discover fresh dairy products, delicious snacks, namkeen, sweets, and confectionery at Chowdhary’s in Nawanshahr, Punjab. Trusted for quality, freshness, and authentic taste for over 3 years.')
+
 @section('content')
 
     <!-- About Us Section Start -->
@@ -33,7 +38,7 @@
 
                         <!-- About Us Button Start -->
                         <div class="about-us-btn wow fadeInUp" data-wow-delay="0.8s">
-                            <a href="contact.html" class="btn-default">Get in Touch with Us</a>
+                            <a href="{{ route('contact') }}" class="btn-default">Get in Touch with Us</a>
                         </div>
                         <!-- About Us Button End -->
                     </div>
@@ -69,47 +74,7 @@
                     <!-- About Us Images End -->
                 </div>
 
-                <div class="col-lg-12">
-                    <!-- About Us Item List Start -->
-                    <div class="about-us-item-list">
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-1.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Wide Product Range</h3>
-                                <p>Dairy, snacks, and confectionery for every need</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-2.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Locally Rooted</h3>
-                                <p>Proudly serving the people of Nawanshahr, Punjab</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-
-                        <!-- About Us Item Start -->
-                        <div class="about-us-item wow fadeInUp" data-wow-delay="0.4s">
-                            <div class="icon-box">
-                                <img src="images/icon-about-us-item-3.svg" alt="">
-                            </div>
-                            <div class="about-us-item-content">
-                                <h3>Customer First</h3>
-                                <p>Every decision we make puts our customers at the centre</p>
-                            </div>
-                        </div>
-                        <!-- About Us Item End -->
-                    </div>
-                    <!-- About Us Item List End -->
-                </div>
+                
             </div>
         </div>
     </div>
@@ -385,9 +350,9 @@
                         <!-- Why Choose Image Box 2 Start -->
                         <div class="why-choose-image-box-2">
                             <!-- Contact Us Circle Start -->
-                            <div class="contact-us-circle">
+                            <!-- <div class="contact-us-circle">
                                 <a href="contact.html"><img src="images/contact-us-circle.svg" alt=""></a>
-                            </div>
+                            </div> -->
                             <!-- Contact Us Circle End -->
 
                             <!-- Why Choose Image Start -->
@@ -415,12 +380,12 @@
                     <!-- What We Video Start -->
                     <div class="what-we-video">
                         <!-- Video Play Button Start -->
-                        <div class="video-play-button bg-effect">
+                        <!-- <div class="video-play-button bg-effect">
                             <a href="images/12(1).mp4" class="popup-video"
                                 data-cursor-text="Play">
                                 <i class="fa-solid fa-play"></i>
                             </a>
-                        </div>
+                        </div> -->
                         <!-- Video Play Button End -->
                     </div>
                     <!-- What We Video End -->
@@ -480,7 +445,7 @@
 
                         <!-- What We Button Start -->
                         <div class="what-we-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="contact.html" class="btn-default">Contact Us to Learn More</a>
+                            <a href="{{ route('contact') }}" class="btn-default">Contact Us to Learn More</a>
                         </div>
                         <!-- What We Button End -->
                     </div>

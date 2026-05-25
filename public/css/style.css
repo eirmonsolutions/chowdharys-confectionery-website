@@ -1001,7 +1001,8 @@ a.navbar-brand img {
 	bottom: 0;
 	right: 0;
 	width: 100%;
-	max-width: 310px;
+	max-width: 251px;
+	max-height: 180px;
 	background: var(--bg-color);
 	border: 20px solid var(--bg-color);
 	border-right: none;
@@ -1036,17 +1037,19 @@ a.navbar-brand img {
 .hero-counter-box {
 	background: var(--white-color);
 	border-radius: 20px;
-	padding: 30px;
+	padding: 15px;
+	max-width: 230px;
+	max-height: 155px;
 }
 
 .hero-counter-content {
-	margin-bottom: 20px;
+	/* margin-bottom: 20px; */
 }
 
 .hero-counter-content h2 {
 	font-family: var(--accent-font);
 	font-size: 46px;
-	margin-bottom: 50px;
+	/* margin-bottom: 50px; */
 }
 
 .hero-counter-content p {
@@ -2703,18 +2706,27 @@ figure.image-anime.reveal {
 }
 
 .footer-copyright {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	gap: 10px;
-	border-top: 1px solid var(--dark-divider-color);
-	padding: 40px 0 60px;
-	margin-top: 60px;
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    border-top: 1px solid var(--dark-divider-color);
+    padding: 40px 0 60px;
+    margin-top: 60px;
+    text-align: center;
 }
 
 .footer-copyright-text p {
 	color: var(--white-color);
 	margin-bottom: 0;
+}
+
+.footer-copyright-text p a {
+    color: #fff;
+}
+
+.footer-copyright-text p a:hover {
+	color: var(--accent-color);
 }
 
 .footer-privacy-policy {

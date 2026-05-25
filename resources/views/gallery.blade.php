@@ -1,5 +1,10 @@
 @extends('layouts.app')
 
+@section('meta_title', 'Gallery |  Chowdhary’s Gallery | Snacks, Ice Cream & Bakery Moments in Nawanshahr')
+
+@section('meta_description',
+'Browse the Chowdhary’s gallery and explore delicious snacks, creamy ice creams, bakery treats, dairy products, and memorable food moments from Nawanshahr’s favourite food destination.')
+
 @section('content')
 
 <!-- Page Header -->
@@ -123,7 +128,7 @@
 
     .gallery-banner{
         background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-        url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop');
+        url('images/banner-img/img-2.jpeg') no-repeat;
         background-size: cover;
         background-position: center;
         padding: 120px 0;
