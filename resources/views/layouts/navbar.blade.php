@@ -56,7 +56,7 @@
 
                     <div class="header-btn">
                         <a href="https://order.chowdharys.com/" class="btn-default">
-                            Book Now
+                            Order Now
                         </a>
                     </div>
 
