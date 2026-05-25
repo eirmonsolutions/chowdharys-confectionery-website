@@ -1394,7 +1394,7 @@ a.navbar-brand img {
 }
 
 figure.image-anime.reveal {
-    height: 350px;
+	height: 350px;
 }
 
 .about-image figure {
@@ -5167,10 +5167,15 @@ figure.image-anime.reveal {
 
 	header.main-header {
 		margin: 0;
+		display: flex;
+	}
+
+	a.navbar-brand img {
+		max-width: 260px;
+		padding: 10px;
 	}
 
 	.navbar {
-		padding: 15px;
 		border-radius: 0;
 	}
 
@@ -6345,7 +6350,7 @@ figure.image-anime.reveal {
 	}
 
 	.about-image {
-		width: calc(50% - 10px);
+		/* width: calc(50% - 10px); */
 	}
 
 	.year-experience-circle img {
@@ -6570,6 +6575,11 @@ figure.image-anime.reveal {
 
 	.footer-logo {
 		margin-bottom: 15px;
+	}
+
+	.footer-logo img {
+		width: 100%;
+		max-width: 300px;
 	}
 
 	.footer-menu ul {

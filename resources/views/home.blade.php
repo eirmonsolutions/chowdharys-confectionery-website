@@ -224,9 +224,8 @@
                             <!-- Working Hours Body Start -->
                             <div class="working-hours-body">
                                 <ul>
-                                    <li>Monday - Friday <span>8:00 AM - 8:00 PM</span></li>
-                                    <li>Saturday <span>9:00 AM - 6:00 PM</span></li>
-                                    <li>Sunday <span>Closed</span></li>
+                                    <li>Monday - Sunday <span>9:00 AM - 10:00 PM</span></li>
+                                    
                                 </ul>
                             </div>
                             <!-- Working Hours Body End -->
