@@ -234,9 +234,19 @@
                             <!-- Working Hours Body End -->
 
                             <!-- Working Hours Button Start -->
-                            <div class="working-hours-btn">
-                                <a href="{{route('contact')}}" class="btn-default">Get Started Now!</a>
-                            </div>
+                            <div class="working-hours-btn d-flex gap-2 flex-wrap">
+
+    <!-- Call Button -->
+    <a href="tel:+919115554066" class="btn-default">
+        <i class="fa fa-phone"></i> Call Now
+    </a>
+
+    <!-- Location Button -->
+    <a href="https://maps.google.com/?q=Nawanshahr,Punjab" target="_blank" class="btn-default">
+        <i class="fa fa-map-marker-alt"></i> Location
+    </a>
+
+</div>
                             <!-- Working Hours Button End -->
                         </div>
                         <!-- Working Hours Item End -->
