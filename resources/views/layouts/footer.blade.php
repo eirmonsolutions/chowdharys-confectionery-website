@@ -58,11 +58,8 @@
                     <div class="footer-map">
                         <div class="map-container">
 
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109741.03330815038!2d76.117541!3d31.124414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a96f8f7b0f6d7%3A0x6d6c65e7f8a7a5e4!2sNawanshahr%2C%20Punjab!5e0!3m2!1sen!2sin!4v1715150000000!5m2!1sen!2sin"
-                                width="100%" height="250" style="border:0; border-radius:15px;" allowfullscreen=""
-                                loading="lazy">
-                            </iframe>
+
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1019.550510013106!2d76.12855610904374!3d31.12216421382717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391abdc68d6a2bff%3A0x626be8c84ee64252!2sNawanshahr%2C%20Punjab%20144514!5e1!3m2!1sen!2sin!4v1779707524696!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                         </div>
                     </div>

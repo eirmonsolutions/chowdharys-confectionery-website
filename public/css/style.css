@@ -409,25 +409,9 @@ a:focus {
 	margin-bottom: 40px;
 }
 
-.section-title h3 {
-	display: inline-block;
-	font-family: var(--accent-font);
-	font-size: 18px;
-	font-weight: 400;
-	font-style: italic;
-	color: var(--accent-color);
-	background-image: url('../images/icon-sparkle-accent.svg');
-	background-repeat: no-repeat;
-	background-position: left center;
-	background-size: 20px auto;
-	padding-left: 30px;
-	margin-bottom: 10px;
-}
-
 .section-title h1 {
-	font-size: 46px;
-	margin-bottom: 0;
-
+    font-size: 35px;
+    margin-bottom: 0;
 }
 
 .section-title h2 {
@@ -460,9 +444,6 @@ a:focus {
 	color: var(--white-color);
 }
 
-.dark-section .section-title h3 {
-	background-image: url('../images/icon-sparkle-white.svg');
-}
 
 .help-block.with-errors ul {
 	margin: 0;
@@ -1506,13 +1487,13 @@ figure.image-anime.reveal {
 }
 
 .service-item {
-	position: relative;
-	background-color: var(--secondary-color);
-	border-radius: 20px;
-	height: calc(100% - 30px);
-	margin-bottom: 30px;
-	padding: 40px;
-	overflow: hidden;
+    position: relative;
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+    height: calc(100% - 30px);
+    margin-bottom: 30px;
+    padding: 20px;
+    overflow: hidden;
 }
 
 .service-item::before {
@@ -1551,7 +1532,7 @@ figure.image-anime.reveal {
 .service-item-content h2 {
 	font-size: 20px;
 	line-height: 1.4em;
-	margin-bottom: 80px;
+	margin-bottom: 20px;
 	transition: all 0.4s ease-in-out;
 }
 
@@ -1846,14 +1827,28 @@ figure.image-anime.reveal {
 
 .feature-content {
 	position: relative;
-	background: url('../images/our-feature-image.jpg') no-repeat;
-	background-position: center center;
+	background: url('../images/12.jpeg') no-repeat;
+	background-position: bottom ;
 	background-size: cover;
-	align-content: center;
 	border-radius: 20px;
 	padding: 100px 5.208vw;
 	height: 100%;
 	overflow: hidden;
+}
+
+.section-title h3 {
+    display: inline-block;
+    font-family: var(--accent-font);
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--accent-color);
+    background-image: url('../images/icon-sparkle-accent.svg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 0px;
+    margin-bottom: 10px;
 }
 
 .feature-content::before {
@@ -2706,14 +2701,14 @@ figure.image-anime.reveal {
 }
 
 .footer-copyright {
-    /* display: flex; */
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 10px;
-    border-top: 1px solid var(--dark-divider-color);
-    padding: 40px 0 60px;
-    margin-top: 60px;
-    text-align: center;
+	/* display: flex; */
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 10px;
+	border-top: 1px solid var(--dark-divider-color);
+	padding: 40px 0 60px;
+	margin-top: 60px;
+	text-align: center;
 }
 
 .footer-copyright-text p {
@@ -2722,7 +2717,7 @@ figure.image-anime.reveal {
 }
 
 .footer-copyright-text p a {
-    color: #fff;
+	color: #fff;
 }
 
 .footer-copyright-text p a:hover {
@@ -5208,6 +5203,7 @@ figure.image-anime.reveal {
 	.bg-section {
 		margin: 5px auto 0;
 		border-radius: 0px;
+		background-color: transparent;
 	}
 
 	.section-row {
@@ -5237,7 +5233,8 @@ figure.image-anime.reveal {
 	.section-title h3 {
 		font-size: 16px;
 		background-size: 16px auto;
-		padding-left: 25px;
+		/* padding-left: 25px; */
+		line-height: 28px;
 	}
 
 	.section-title p {

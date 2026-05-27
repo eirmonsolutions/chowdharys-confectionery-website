@@ -37,8 +37,6 @@
                     'background-image': image_url,
                     'background-size': local_options.size,
                     'background-repeat': local_options.repeat,
-                    'background-attachment': 'fixed',
-                    'background-position': local_options.pos_x + ' ' + pos_y + 'px',
                 });
 
                 $(window).scroll( function(){
